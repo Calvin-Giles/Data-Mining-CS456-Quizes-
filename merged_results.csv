@@ -1,0 +1,6 @@
+,Student_ID,Name,Major,Final_Score,Course
+0,1001,Alice,Computer Science,95.0,CS101
+1,1002,Bob,Math,88.0,MATH201
+2,1003,Charlie,Physics,72.0,PHY111
+3,1004,Diana,Economics,,
+4,1005,,,85.0,BIO150
